@@ -1,0 +1,13 @@
+// 作者:心鸾
+// 描述:只推荐刷本使用
+// 玛薇卡代码可复制下来单独使用
+
+班尼特 e
+
+希诺宁 e,moveby(500,0),moveby(-2300,0),attack(0.8),keypress(q),attack(0.1),keypress(q),attack(0.1),keypress(q)
+
+夜兰 e,moveby(500,0),moveby(2300,0),e,keypress(F1),wait(0.8),keypress(ESCAPE),keypress(q),attack(0.1),keypress(q),attack(0.1),keypress(q),attack(0.1)
+
+班尼特 e,keypress(q),attack(0.1),keypress(F1),wait(0.5),keypress(ESCAPE),keypress(q),attack(0.1),keypress(q),attack(0.1),keypress(q),attack(0.1),keypress(q),attack(0.3),keypress(q),attack(0.3),keypress(q)
+
+玛薇卡  q,attack(0.1),e,charge(0.6)4,dash(0.3),moveby(500,0),moveby(2300,0),attack(0.1),charge(0.7),dash(0.3),moveby(-500,0),moveby(-2300,-0),attack(0.1),charge(0.7),dash(0.3),moveby(500,0),moveby(2600,0),attack(0.1),charge(0.8),dash(0.3),moveby(-500,0),moveby(-2300,-0),attack(0.1),charge(0.8),dash(0.3),moveby(500,0),moveby(2300,0),attack(0.1),charge(0.8),dash(0.3),moveby(-500,0),moveby(-2300,-0)
